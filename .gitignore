@@ -1,0 +1,4 @@
+venv
+.python-version
+.idea/
+__pycache__/app.cpython-37.pyc
